@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Calib_Data>
+  <mode name="HDR_DQE" ids="BT_2020_PQ" ids_id="163971072" luminance="0">
+  </mode>
+  <mode name="HDR_DQE" ids="BT_2020_PQ" ids_id="163971072" luminance="1000">
+  </mode>
+  <mode name="HDR_DQE" ids="BT_2020_PQ" ids_id="163971072" luminance="2000">
+  </mode>
+  <mode name="HDR_DQE" ids="BT_2020_PQ" ids_id="163971072" luminance="3000">
+  </mode>
+  <mode name="HDR_DQE" ids="BT_2020_PQ" ids_id="163971072" luminance="4000">
+  </mode>
+  <mode name="HDR_DQE" ids="BT_2020_PQ" ids_id="163971072" luminance="10000">
+  </mode>
+  <mode name="HDR_DQE" ids="BT_2020_ITU_PQ" ids_id="298188800" luminance="0">
+  </mode>
+  <mode name="HDR_DQE" ids="BT_2020_ITU_PQ" ids_id="298188800" luminance="1000">
+  </mode>
+  <mode name="HDR_DQE" ids="BT_2020_ITU_PQ" ids_id="298188800" luminance="2000">
+  </mode>
+  <mode name="HDR_DQE" ids="BT_2020_ITU_PQ" ids_id="298188800" luminance="3000">
+  </mode>
+  <mode name="HDR_DQE" ids="BT_2020_ITU_PQ" ids_id="298188800" luminance="4000">
+  </mode>
+  <mode name="HDR_DQE" ids="BT_2020_ITU_PQ" ids_id="298188800" luminance="10000">
+  </mode>
+  <mode name="HDR_DQE" ids="BT_2020_ITU_HLG" ids_id="302383104" luminance="-1">
+  </mode>
+  <mode name="HDR_DQE" ids="BT_2020_HLG" ids_id="168165376" luminance="-1">
+  </mode>
+</Calib_Data>

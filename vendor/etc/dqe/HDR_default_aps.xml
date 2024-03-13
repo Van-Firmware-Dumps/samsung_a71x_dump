@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Calib_Data>
+  <mode name="HDR_APS">
+    <aps>0,128,128,128,14,10,2,1,900,256,140,255,4,1,1,1,1,1,512,1,0,0,0,0</aps>
+  </mode>
+</Calib_Data>
