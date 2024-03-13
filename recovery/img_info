@@ -1,0 +1,17 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=2048
+dtbo=dtbo.img
+dt=dtb.img
+kernel_size=32630796
+ramdisk_size=16505940
+dtb_offset=0x00000000
+dtb_size=235076
+base_addr=0x10000000
+kernel_offset=0x00008000
+ramdisk_offset=0x01000000
+tags_offset=0x00000100
+dtbo_offset=0xf2edd800
+cmd_line='androidboot.hardware=exynos980 androidboot.hardware=exynos980 loop.max_part=7'
+board="SRPSL18B007"
+format=gzip

@@ -1,0 +1,20 @@
+## a71xskt-user 13 TP1A.220624.014 A716SKSU7FXB3 release-keys
+- Manufacturer: samsung
+- Platform: universal980
+- Codename: a71x
+- Brand: samsung
+- Flavor: a71xskt-user
+- Release Version: 13
+- Kernel Version: 4.19.87
+- Id: TP1A.220624.014
+- Incremental: A716SKSU7FXB3
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: ko-KR
+- Screen Density: undefined
+- Fingerprint: samsung/a71xskt/a71x:13/TP1A.220624.014/A716SKSU7FXB3:user/release-keys
+- OTA version: 
+- Branch: a71xskt-user-13-TP1A.220624.014-A716SKSU7FXB3-release-keys
+- Repo: samsung_a71x_dump
